@@ -1,3 +1,5 @@
+uprava po vytvoreni Nmaster
+
 soubor v mater vetvi
 
 zmena souboru ve vetvi novaMaster
