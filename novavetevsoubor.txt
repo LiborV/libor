@@ -1,0 +1,2 @@
+soubor v nové vetve
+pridani druheho commitu do noveVetve
