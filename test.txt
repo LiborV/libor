@@ -1,4 +1,4 @@
-commit c masteru 
+opraveno -slouceni novaVetve a master
 test
 
 druhy commit
