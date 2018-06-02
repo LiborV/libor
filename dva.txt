@@ -1,1 +1,2 @@
-                  dva
+pridani radku 1
+pridani radku 2

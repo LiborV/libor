@@ -1,1 +1,3 @@
 soubor v mater vetvi
+
+zmena souboru ve vetvi novaMaster
